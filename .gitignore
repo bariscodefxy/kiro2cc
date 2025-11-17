@@ -5,3 +5,5 @@ kiro2cc
 *response.raw
 
 .direnv
+
+.gocache
